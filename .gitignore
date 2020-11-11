@@ -1,2 +1,5 @@
 .vscode/
 baraja.pyc
+__pycache__/
+
+
