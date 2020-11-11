@@ -1,8 +1,6 @@
-palos = ["o", "c", "e", "b"]
-numeros = ["A", "2", "3", "4", "5", "6", "7", "S", "C", "R"]
 import random
 
-def creaBaraja():
+def creaBaraja(palos, numeros):
     baraja = []
     for palo in palos:
         for numero in numeros:
